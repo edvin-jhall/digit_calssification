@@ -15,7 +15,7 @@ The Jupyter Notebook (`Miniproject_2.ipynb`) performs the following steps:
 8. **Evaluation:** Calculates and prints the model's accuracy (success rate) for different numbers of basis vectors ($k=5$ to $15$)
 9. across all ten digits, compiled in a clean table.
 
-## 💾 Training and Test Data
+## Training and Test Data
 The data files (`.npy`) are too large to be hosted directly on GitHub and are therefore hosted externally. Please download them 
 via my Google Drive and place them in the same directory as the notebook before running the code.
 
@@ -28,7 +28,7 @@ Files that should be in the root directory:
 * `TestDigits.npy`
 * `TestLabels.npy`
 
-## 🛠 Requirements and Dependencies
+## Requirements and Dependencies
 To run this project, you need Python installed along with the following libraries:
 * `numpy`
 * `matplotlib`
